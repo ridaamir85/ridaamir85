@@ -6,13 +6,11 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Turning+curiosity+into+code+%F0%9F%92%AB;Exploring+AI%2C+ML+%26+Cybersecurity+%F0%9F%94%90;Building+one+project+at+a+time+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+> *"The best way to predict the future is to build it."*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rida-amir-b606a836b)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridaamircs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridaamir85)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Not+all+who+wander+are+lost+%E2%80%94+some+are+debugging+%F0%9F%90%9B;Exploring+AI%2C+ML+%26+Cybersecurity+%F0%9F%94%90;The+expert+in+anything+was+once+a+beginner+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -130,6 +128,6 @@ Actively learning cybersecurity concepts through certifications and hands-on pra
 
 <br>
 
-*"The expert in anything was once a beginner."* ✨
+*"Girl who codes by day, dreams of AI by night."* 🌙
 
 </div>
