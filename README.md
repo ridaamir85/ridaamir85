@@ -10,11 +10,11 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Not+all+who+wander+are+lost+%E2%80%94+some+are+debugging+%F0%9F%90%9B;Exploring+AI%2C+ML+%26+Cybersecurity+%F0%9F%94%90;The+expert+in+anything+was+once+a+beginner+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Not+all+who+wander+are+lost+%E2%80%94+some+are+debugging+%F0%9F%90%9B;Exploring+AI%2C+ML+%26+Cybersecurity+%F0%9F%94%90;The+expert+in+anything+was+once+a+beginner+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
-![rainbow](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=3&width=800" /></p>
 
 ## 🌟 About Me
 
@@ -29,7 +29,7 @@ Student rida = {
 };
 ```
 
-![rainbow](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=3&width=800" /></p>
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +51,7 @@ Student rida = {
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-06B6D4?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=white)
 
-![rainbow](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=3&width=800" /></p>
 
 ## 📂 Featured Projects
 
@@ -64,7 +64,7 @@ Full-featured console-based cricket simulator with ball-by-ball commentary, 10 i
 
 **Tech:** `C++` `OOP` `File I/O` `Multi-file`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridaamir85/cricket-match-simulator)
+[![Repo](https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridaamir85/cricket-match-simulator)
 
 </td>
 <td width="50%">
@@ -74,7 +74,7 @@ Console-based maze game with 3 difficulty levels, real-time timer, CNIC-based pl
 
 **Tech:** `C++` `Windows API` `File Handling`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridaamir85/maze-game)
+[![Repo](https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridaamir85/maze-game)
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ Web-based tool to monitor and visualize network traffic data.
 
 **Tech:** `HTML`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridaamir85/Network-Traffic-Monitor)
+[![Repo](https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridaamir85/Network-Traffic-Monitor)
 
 </td>
 <td width="50%">
@@ -101,7 +101,7 @@ Actively learning cybersecurity concepts through certifications and hands-on pra
 </tr>
 </table>
 
-![rainbow](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=3&width=800" /></p>
 
 ## 🏆 Highlights
 
@@ -113,18 +113,16 @@ Actively learning cybersecurity concepts through certifications and hands-on pra
 | 👩‍🏫 | **Teaching Assistant** — ICT Course, PUCIT |
 | 🌐 | **500+ connections** on LinkedIn |
 
-![rainbow](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=3&width=800" /></p>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-💼 **Open to internships & collaboration opportunities**
-
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rida-amir-b606a836b)
-[![Email](https://img.shields.io/badge/Email%20Me-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridaamircs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rida-amir-b606a836b)
+[![Email](https://img.shields.io/badge/Email%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridaamircs@gmail.com)
 
 <br>
 
