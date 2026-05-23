@@ -36,6 +36,7 @@ Student rida = {
 **Languages**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Tools & Platforms**
@@ -44,6 +45,7 @@ Student rida = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Currently Exploring 🌱**
 
@@ -82,9 +84,9 @@ Console-based maze game with 3 difficulty levels, real-time timer, CNIC-based pl
 <td width="50%">
 
 ### 🌐 [Network Traffic Monitor](https://github.com/ridaamir85/Network-Traffic-Monitor)
-Web-based tool to monitor and visualize network traffic data.
+Real-time network traffic monitoring tool that captures and analyzes live packets, identifies protocols (TCP/UDP/ICMP), and displays stats on an interactive web dashboard.
 
-**Tech:** `HTML`
+**Tech:** `Python` `Flask` `Scapy` `HTML`
 
 [![Repo](https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridaamir85/Network-Traffic-Monitor)
 
