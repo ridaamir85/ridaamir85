@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Rida Amir ✦
+# `[[ Rida Amir ]] >> Loading... ✓`
 
 ### `BSCS @ PUCIT · AI/ML & Cybersecurity Enthusiast · Tech Explorer`
 
@@ -10,11 +10,11 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Not+all+who+wander+are+lost+%E2%80%94+some+are+debugging+%F0%9F%90%9B;Exploring+AI%2C+ML+%26+Cybersecurity+%F0%9F%94%90;The+expert+in+anything+was+once+a+beginner+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Not+all+who+wander+are+lost+%E2%80%94+some+are+debugging+%F0%9F%90%9B;Exploring+AI%2C+ML+%26+Cybersecurity+%F0%9F%94%90;The+expert+in+anything+was+once+a+beginner+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
----
+![rainbow](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🌟 About Me
 
@@ -29,7 +29,7 @@ Student rida = {
 };
 ```
 
----
+![rainbow](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🛠️ Tech Stack
 
@@ -47,11 +47,11 @@ Student rida = {
 
 **Currently Exploring 🌱**
 
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00C853?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-22D3EE?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-06B6D4?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=white)
 
----
+![rainbow](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📂 Featured Projects
 
@@ -64,7 +64,7 @@ Full-featured console-based cricket simulator with ball-by-ball commentary, 10 i
 
 **Tech:** `C++` `OOP` `File I/O` `Multi-file`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/ridaamir85/cricket-match-simulator)
+[![Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridaamir85/cricket-match-simulator)
 
 </td>
 <td width="50%">
@@ -74,7 +74,7 @@ Console-based maze game with 3 difficulty levels, real-time timer, CNIC-based pl
 
 **Tech:** `C++` `Windows API` `File Handling`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/ridaamir85/maze-game)
+[![Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridaamir85/maze-game)
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ Web-based tool to monitor and visualize network traffic data.
 
 **Tech:** `HTML`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/ridaamir85/Network-Traffic-Monitor)
+[![Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridaamir85/Network-Traffic-Monitor)
 
 </td>
 <td width="50%">
@@ -101,7 +101,7 @@ Actively learning cybersecurity concepts through certifications and hands-on pra
 </tr>
 </table>
 
----
+![rainbow](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🏆 Highlights
 
@@ -113,7 +113,7 @@ Actively learning cybersecurity concepts through certifications and hands-on pra
 | 👩‍🏫 | **Teaching Assistant** — ICT Course, PUCIT |
 | 🌐 | **500+ connections** on LinkedIn |
 
----
+![rainbow](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🤝 Let's Connect
 
@@ -124,7 +124,7 @@ Actively learning cybersecurity concepts through certifications and hands-on pra
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rida-amir-b606a836b)
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridaamircs@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20Me-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridaamircs@gmail.com)
 
 <br>
 
