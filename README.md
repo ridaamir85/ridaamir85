@@ -2,7 +2,7 @@
 
 # `[[ Rida Amir ]] >> Loading... ✓`
 
-### `BSCS @ PUCIT · AI/ML Engineering Intern @ PITB · Aspiring Software Developer`
+### `AI/ML Engineering Intern @ PITB · Aspiring Software Developer · BSCS @ PUCIT`
 
 <br>
 
